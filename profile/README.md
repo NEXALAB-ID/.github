@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/NEXALAB-ID/.github/main/assets/banner.png" width="100%" alt="NEXALAB ID Banner"/>
 
-<br/>
+<p>&nbsp;</p>
 
 [![Organization](https://img.shields.io/badge/GitHub-NEXALAB--ID-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NEXALAB-ID)
 [![Focus](https://img.shields.io/badge/Focus-IoT%20%7C%20AI%20%7C%20Electronics-38bdf8?style=for-the-badge)](#)
@@ -27,28 +27,13 @@ We are a team of engineers, researchers, and makers who believe that the future 
 
 ## What We Work On
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>Hardware & Embedded</h3>
-      <p>Microcontrollers, PCB design, sensor integration, firmware development, and real-time embedded systems.</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>Internet of Things (IoT)</h3>
-      <p>Connected devices, wireless protocols (MQTT, LoRa, Zigbee), cloud integration, and smart system architectures.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>Machine Learning & Deep Learning</h3>
-      <p>Model training, computer vision, signal processing, and deploying ML models on edge devices.</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>Artificial Intelligence</h3>
-      <p>AI-powered automation, intelligent control systems, predictive analytics, and applied research.</p>
-    </td>
-  </tr>
-</table>
+| Hardware & Embedded | Internet of Things (IoT) |
+|:---|:---|
+| Microcontrollers, PCB design, sensor integration, firmware development, and real-time embedded systems. | Connected devices, wireless protocols (MQTT, LoRa, Zigbee), cloud integration, and smart system architectures. |
+
+| Machine Learning & Deep Learning | Artificial Intelligence |
+|:---|:---|
+| Model training, computer vision, signal processing, and deploying ML models on edge devices. | AI-powered automation, intelligent control systems, predictive analytics, and applied research. |
 
 ---
 
