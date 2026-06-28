@@ -1,9 +1,7 @@
 name: Update README Projects
 
 on:
-  schedule:
-    - cron: '0 * * * *'  # setiap jam
-  workflow_dispatch:  # bisa trigger manual
+  workflow_dispatch:
 
 jobs:
   update-readme:
