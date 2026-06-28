@@ -78,7 +78,7 @@ We are a team of engineers, researchers, and makers who believe that the future 
 
 | Project | Description | Status |
 |:--------|:------------|:------:|
-| [discussions](https://github.com/NEXALAB-ID/discussions) | - | `In Progress` |
+| Coming Soon | Our first project is on the way. | `In Progress` |
 
 > Have an idea? [Open a discussion](https://github.com/NEXALAB-ID/discussions/discussions) and let's build it together.
 
