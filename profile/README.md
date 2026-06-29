@@ -79,8 +79,10 @@ We are a team of engineers, researchers, and makers who believe that the future 
 | Project | Description | Status |
 |:--------|:------------|:------:|
 | [gps-tracker](https://github.com/NEXALAB-ID/gps-tracker) | Real-time GPS tracking dashboard built with ESP32 + SIM7600, featuring geofence alerts, WhatsApp notifications, and remote engine control. Accessible via browser and installable as a PWA. | `In Progress` |
-| [esp32-ota](https://github.com/NEXALAB-ID/esp32-ota) | ESP32 Over-the-Air (OTA) firmware update examples using WiFi. | `In Progress` |
 | [esp32-starter-kit](https://github.com/NEXALAB-ID/esp32-starter-kit) | A collection of ESP32 starter examples covering WiFi, MQTT, and Bluetooth communication. | `Completed` |
+| [esp32-ota](https://github.com/NEXALAB-ID/esp32-ota) | ESP32 Over-the-Air (OTA) firmware update examples using WiFi. | `Completed` |
+| [mqtt-dashboard](https://github.com/NEXALAB-ID/mqtt-dashboard) | A simple web-based dashboard to monitor ESP32 data in real-time via MQTT. | `Completed` |
+| [esp32-ml](https://github.com/NEXALAB-ID/esp32-ml) | Machine learning examples deployed on ESP32 using TensorFlow Lite. | `Completed` |
 
 > Have an idea? [Open a discussion](https://github.com/NEXALAB-ID/discussions/discussions) and let's build it together.
 
