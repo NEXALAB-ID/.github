@@ -25,14 +25,22 @@ def build_table(repos):
         topics = topics_res.json().get('names', [])
 
         if 'nexalab-featured' in topics:
-            featured.append((repo['name'], repo.get('description') or '-', '`In Progress`'))
+            featured.append((
+                repo['name'],
+                repo.get('description') or '-',
+                '![In Progress](https://img.shields.io/badge/-In%20Progress-f59e0b?style=flat-square)'
+            ))
         elif 'nexalab-completed' in topics:
-            completed.append((repo['name'], repo.get('description') or '-', '`Completed`'))
+            completed.append((
+                repo['name'],
+                repo.get('description') or '-',
+                '![Completed](https://img.shields.io/badge/-Completed-22c55e?style=flat-square)'
+            ))
 
     all_projects = featured + completed
 
     if not all_projects:
-        return '| Project | Description | Status |\n|:--------|:------------|:------:|\n| Coming Soon | Our first project is on the way. | `In Progress` |'
+        return '| Project | Description | Status |\n|:--------|:------------|:------:|\n| Coming Soon | Our first project is on the way. | ![Coming Soon](https://img.shields.io/badge/-Coming%20Soon-94a3b8?style=flat-square) |'
 
     table = '| Project | Description | Status |\n|:--------|:------------|:------:|\n'
     for name, desc, status in all_projects:
