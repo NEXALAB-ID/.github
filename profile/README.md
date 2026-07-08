@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NEXALAB-ID/.github/main/assets/banner.png" width="100%" alt="NEXALAB ID Banner"/>
+<img src="https://raw.githubusercontent.com/NEXALAB-ID/.github/main/assets/vid.gif" width="100%" alt="NEXALAB ID Banner"/>
 
 <p>&nbsp;</p>
 
